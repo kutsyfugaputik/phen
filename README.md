@@ -41,8 +41,7 @@
 5 Как добавить Isar в проект на Flutter [Электронный ресурс Интернет]. URL:  https://habr.com/ru/articles/673068/
 6 Создание приложений для салонов красоты [Электронный ресурс Интернет]. URL: https://livetyping.com/ru/sozdanie-prilozheniya-dlya-salonov-krasoty 
 7 Инструкция: Как создавать ботов в Telegram [Электронный ресурс Интернет]. URL:  https://habr.com/ru/articles/262247/
-8 Dart Уроки с нуля до профи курс 2023/2024 [Электронный ресурс Интернет]. URL:
-https://www.youtube.com/playlist?list=PLtUuja72DaLLAo63Zsn1UsLONDafJKWrl
+8 Dart Уроки с нуля до профи курс 2023/2024 [Электронный ресурс Интернет]. URL:https://www.youtube.com/playlist?list=PLtUuja72DaLLAo63Zsn1UsLONDafJKWrl
 9 Работа с SQLite в Python (для чайников) [Электронный ресурс Интернет]. URL: https://habr.com/ru/articles/754400/
 [Ссылка]
 Mitch Koko - YouTube
